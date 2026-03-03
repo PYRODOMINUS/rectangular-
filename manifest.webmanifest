@@ -1,0 +1,12 @@
+{
+  "name": "IDK",
+  "short_name": "IDK",
+  "id": "com.example.gamename",
+  "description": "NOT FINISHED YET. THIS IS GONNA BE A PLATFORMER SPEEDRUN GAME. GIVE FEEDBACKS PLZ",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
